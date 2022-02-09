@@ -1,4 +1,6 @@
 # Main header
 
-Some description
+Some description.
 Some more text
+
+## Subheader
